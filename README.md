@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @p-gowtham
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gowthamwind@gmail.com
+- 
+<!-- - 👀 I’m interested in ... -->
+
+<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
 p-gowtham/p-gowtham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
