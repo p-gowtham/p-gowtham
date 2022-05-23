@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p-gowtham
 - 🌱 I’m currently learning React
-- 📫 How to reach me gowthamwind@gmail.com
+- 📫 Reach me @gowthamwind@gmail.com
 
 <!-- - 👀 I’m interested in ... -->
 
