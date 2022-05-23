@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @p-gowtham
 - 🌱 I’m currently learning React
 - 📫 Reach me gowthamwind@gmail.com
+- 📫 LinkedIn - https://www.linkedin.com/in/pgowtham/
 
 <!-- - 👀 I’m interested in ... -->
 
